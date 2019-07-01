@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# Parallel uploads to Amazon AWS S3
+# Split and Parallel upload to Amazon AWS S3.
 
 
 try:
