@@ -267,7 +267,7 @@ class Opt(object):
 	def __init__(self):
 		self.processes	= multiprocessing.cpu_count() * 4
 		self.walk		= 'filesystem'
-		self.prefix		= 'racct'
+		self.prefix		= 'test'
 		self.put		= 'update'
 		self.gzip		= True
 		self.secure		= True
