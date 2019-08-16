@@ -1,5 +1,6 @@
 # large-file-split-compress-parallel-upload-to-S3
 Split and parallel upload large file to S3 in smaller compressed chunks.
+(Used for optimal load to Snowflake Db)
 
 
 inspired by s3-parallel-put: https://github.com/mishudark/s3-parallel-put
