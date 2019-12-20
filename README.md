@@ -5,7 +5,7 @@ Split and parallel upload large file to S3 in smaller compressed chunks.
 
 inspired by s3-parallel-put: https://github.com/mishudark/s3-parallel-put
 
-
+[<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png">](https://www.buymeacoffee.com/0nJ32Xg)
 
 
 ### Other scrips
