@@ -1,3 +1,5 @@
+[I'm looking for a new gig](https://github.com/pydemo/Resume)
+
 # large-file-split-compress-parallel-upload-to-S3
 Split and parallel upload large file to S3 in smaller compressed chunks.
 (Used for optimal load to Snowflake Db)
